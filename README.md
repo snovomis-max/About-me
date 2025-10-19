@@ -1,6 +1,7 @@
 # About-me
 
 This file contains a brief overview of my frontend development skills, both technical (Hard Skills) and personal (Soft Skills), as well as my current goals and learning direction.
+
 Цей файл містить короткий опис моїх навичок у фронтенд-розробці — технічних (Hard Skills) та особистісних (Soft Skills), а також моїх цілей і напрямків розвитку.
 
 ---
